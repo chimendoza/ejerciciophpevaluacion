@@ -1,0 +1,9 @@
+Options -Indexes
+
+RewriteEngine On
+
+RewriteRule ^controllers/ - [F]
+
+RewriteRule ^core/ - [F]
+
+RewriteRule ^views/default - [F]

@@ -1,0 +1,15 @@
+*{padding:0;margin:0} a,a:hover{text-decoration: none;}
+
+
+.question-item{margin:10px 0}
+
+.align-center{text-align:center}
+form{padding:20px}
+h2,h3{text-align: center;margin-top:20px}
+.options{display:flex;align-items: center;justify-content: center;}
+
+p{font-weight: bold;font-size:1.2rem;}
+
+label{display:block;}
+
+.options a{width:150px;height:150px;border:1px solid #ebebeb;padding:20px;display: flex;align-items: center;justify-content: center;text-align: center;margin:0 10px;border-radius:10px}
